@@ -10,3 +10,8 @@ Este programa compara la información impositiva de todas las **CUITs habilitada
 ### 🌟 **Beneficios**
 - Evitamos errores en la gestión fiscal, mejorando la eficiencia y precisión de los datos.
 - Garantizamos una operación fluida y en conformidad con las regulaciones.
+
+Reportes generados:
+![](https://github.com/cgzanfa/Control_ARCA_Dato_Maestro/blob/67183e7142d2c257e4968381c13a885da431d089/Captura.PNG)
+
+![](https://github.com/cgzanfa/Control_ARCA_Dato_Maestro/blob/67183e7142d2c257e4968381c13a885da431d089/Captura2.PNG)
